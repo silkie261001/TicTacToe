@@ -48,7 +48,7 @@
   }
   
   .game-grid {
-    background: #027065;
+    background: #5c0a4e;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
@@ -57,7 +57,7 @@
   }
   
   .game-cell {
-    background: #14BDAC;
+    background: #FFB6C1;
     display: flex;
     justify-content: center;
     align-items: center;
